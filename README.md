@@ -1,4 +1,5 @@
 **(1).Tech Stack Used:**
+
 **Languages**
 
 -Python
@@ -47,6 +48,7 @@
 -Rule-based AI recommendations
 
 
+
 **Task 2: Time Series Forecasting (Supervised Learning)**
 
 Built LSTM forecasting models for all 4 variables:
@@ -64,6 +66,7 @@ Wind Direction (°)	    LSTM         	Next Direction
 -Root MSE (RMSE)
 
 
+
 **Task 3: Unsupervised Learning – Anomaly Detection**
 
 Detected underperforming points using:
@@ -71,6 +74,9 @@ Detected underperforming points using:
 -Isolation Forest
 -Deviation from theoretical power curve
 -Z-score-based anomaly detection
+
+
+
 
 **Task 4: AI Turbine Performance Score**
 
