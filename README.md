@@ -27,3 +27,20 @@
 
 -Performance scoring
 -Rule-based AI recommendations
+
+**Task 1: Exploratory Data Analysis (EDA)**
+
+-> Converted Date-Time to proper format
+-> Checked for missing & abnormal readings
+-> Time-series plots for:
+
+-LV Active Power
+-Wind Speed
+-Theoretical Power Curve
+-Wind Direction
+
+-> Scatterplot of Wind Speed vs Active Power to observe power curve
+-> Trend analysis + noise patterns
+
+-Performance scoring
+-Rule-based AI recommendations
