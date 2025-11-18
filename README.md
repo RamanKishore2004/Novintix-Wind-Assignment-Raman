@@ -43,11 +43,11 @@
 
 Built LSTM forecasting models for all 4 variables:
 
-- Variable	             - Model Used	  -  Output
-- LV Active Power (kW)	 - LSTM	        - Predicted Power
-- Wind Speed (m/s)	     - LSTM	        - Future Wind Speed
-- Theoretical Power(kWh) - LSTM        	- Expected Curve
-- Wind Direction (°)	   - LSTM         -  Next Direction
+- Variable	             	        -  Output
+- LV Active Power (kW)	 	        - Predicted Power
+- Wind Speed (m/s)	     	        - Future Wind Speed
+- Theoretical Power(kWh)        	- Expected Curve
+- Wind Direction (°)	            -  Next Direction
 
 **Performance metrics used:**
 
